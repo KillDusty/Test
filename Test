@@ -386,9 +386,9 @@
           "tertiary": "#000000",
           "logoURL": ""
         }
-      ]
-    },
-    {
+        ]
+        },
+        {
       "name": "SEC",
       "conferencePrestige": 92,
       "conferenceLogoURL": "https://en.wikipedia.org/wiki/SEC_men%27s_basketball_tournament#/media/File:Southeastern_Conference_logo.svg",
@@ -502,8 +502,11 @@
           "primary": "#F1B82D",
           "secondary": "#000000",
           "tertiary": "#FFFFFF",
-          "logoURL": "https://en.wikipedia.org/wiki/Missouri_Tigers_men%27s_basketball#/
-         {
+          "logoURL": "https://en.wikipedia.org/wiki/Missouri_Tigers_men%27s_"
+        }
+        ]
+        },
+        {
   "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Big_12_Conference_%28cropped%29_logo.svg/1920px-Big_12_Conference_%28cropped%29_logo.svg.png",
   "conferencePrestige": 80,
   "name": "Big 12",
@@ -723,8 +726,8 @@
       "secondary": "#000000",
       "tertiary": "#FEFFFF"
 
-        }
-      ]
+    }
+    ]
     },
     {
   "tier": "Power"
@@ -928,8 +931,8 @@
   ],
   "tier": "Non-Power"
   
-        }
-      ]
+    }
+    ]
     },
     {
   "conferenceLogoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/800px-Pac-12_logo.svg.png",
@@ -1046,5 +1049,7 @@
       "tertiary": "#000000"
     }
   ],
-  "tier": "Non-Power"
-}
+  "tier": "Non-Power"}
+        ]
+        },
+        {
