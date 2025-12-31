@@ -1,0 +1,252 @@
+{
+  "conferences": [
+    {
+      "name": "Big Ten",
+      "conferencePrestige": 88,
+      "conferenceLogoURL": "",
+      "requiredConferenceGames": 9,
+      "tier": "Power",
+      "protectedPairs": [],
+      "teams": [
+        {
+          "name": "Minnesota",
+          "abbreviation": "MINN",
+          "mascot": "Golden Gophers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 60,
+          "primary": "#5B0013",
+          "secondary": "#FFB71E",
+          "tertiary": "#FFFFFF",
+          "logoURL": ""
+        },
+        {
+          "name": "Nebraska",
+          "abbreviation": "NEB",
+          "mascot": "Cornhuskers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 70,
+          "primary": "#E41C38",
+          "secondary": "#FDF2D9",
+          "tertiary": "#000000",
+          "logoURL": ""
+        },
+        {
+          "name": "Northwestern",
+          "abbreviation": "NW",
+          "mascot": "Wildcats",
+          "offenseScheme": "motion",
+          "defenseScheme": "3-4",
+          "prestige": 52,
+          "primary": "#4E2A84",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": ""
+        },
+        {
+          "name": "Ohio State",
+          "abbreviation": "OSU",
+          "mascot": "Buckeyes",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 93,
+          "primary": "#BB0000",
+          "secondary": "#666666",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/Ohio_State_Buckeyes#/media/File:Ohio_State_Buckeyes_logo.svg"
+        },
+        {
+          "name": "Penn State",
+          "abbreviation": "PSU",
+          "mascot": "Nittany Lions",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 85,
+          "primary": "#001E44",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": ""
+        },
+        {
+          "name": "Rutgers",
+          "abbreviation": "RUTG",
+          "mascot": "Scarlet Knights",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 45,
+          "primary": "#CC0033",
+          "secondary": "#6A757C",
+          "tertiary": "#FFFFFF",
+          "logoURL": ""
+        },
+        {
+          "name": "UCLA",
+          "abbreviation": "UCLA",
+          "mascot": "Bruins",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 78,
+          "primary": "#2774AE",
+          "secondary": "#F2A900",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/UCLA_Bruins#/media/File:UCLA_Bruins_logo.svg"
+        },
+        {
+          "name": "USC",
+          "abbreviation": "USC",
+          "mascot": "Trojans",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 90,
+          "primary": "#9D2235",
+          "secondary": "#FFC72C",
+          "tertiary": "#000000",
+          "logoURL": "https://en.wikipedia.org/wiki/USC_Trojans#/media/File:USC_Trojans_logo.svg"
+        },
+        {
+          "name": "Washington",
+          "abbreviation": "WASH",
+          "mascot": "Huskies",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 80,
+          "primary": "#33006F",
+          "secondary": "#E8D3A2",
+          "tertiary": "#FFFFFF",
+          "logoURL": ""
+        },
+        {
+          "name": "Wisconsin",
+          "abbreviation": "WISC",
+          "mascot": "Badgers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 74,
+          "primary": "#C5050C",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": ""
+        }
+      ]
+    },
+    {
+      "name": "SEC",
+      "conferencePrestige": 92,
+      "conferenceLogoURL": "https://en.wikipedia.org/wiki/SEC_men%27s_basketball_tournament#/media/File:Southeastern_Conference_logo.svg",
+      "requiredConferenceGames": 8,
+      "tier": "Power",
+      "protectedPairs": [],
+      "teams": [
+        {
+          "name": "Alabama",
+          "abbreviation": "ALA",
+          "mascot": "Crimson Tide",
+          "offenseScheme": "motion",
+          "defenseScheme": "3-4",
+          "prestige": 98,
+          "primary": "#B30838",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide#/media/File:Alabama_Athletics_logo.svg"
+        },
+        {
+          "name": "Arkansas",
+          "abbreviation": "ARK",
+          "mascot": "Razorbacks",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 62,
+          "primary": "#A41F35",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": "https://en.wikipedia.org/wiki/Arkansas_Razorbacks#/media/File:Arkansas_razorbacks_logo.png"
+        },
+        {
+          "name": "Auburn",
+          "abbreviation": "AUB",
+          "mascot": "Tigers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 78,
+          "primary": "#F26522",
+          "secondary": "#03244D",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/Auburn_Tigers#/media/File:Auburn_Tigers_logo.svg"
+        },
+        {
+          "name": "Florida",
+          "abbreviation": "FLA",
+          "mascot": "Gators",
+          "offenseScheme": "spread",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 82,
+          "primary": "#FA4616",
+          "secondary": "#003087",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/Florida_Gators#/media/File:Florida_Gators_gator_logo.svg"
+        },
+        {
+          "name": "Georgia",
+          "abbreviation": "UGA",
+          "mascot": "Bulldogs",
+          "offenseScheme": "motion",
+          "defenseScheme": "3-4",
+          "prestige": 96,
+          "primary": "#BA0C2F",
+          "secondary": "#2C2A29",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/Georgia_Bulldogs#/media/File:Georgia_Athletics_logo.svg"
+        },
+        {
+          "name": "Kentucky",
+          "abbreviation": "UK",
+          "mascot": "Wildcats",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 60,
+          "primary": "#0033A0",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": "https://en.wikipedia.org/wiki/Kentucky_Wildcats#/media/File:Kentucky_Wildcats_logo.svg"
+        },
+        {
+          "name": "LSU",
+          "abbreviation": "LSU",
+          "mascot": "Tigers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 85,
+          "primary": "#461D7C",
+          "secondary": "#FDD023",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/LSU_Tigers_and_Lady_Tigers#/media/File:LSU_Athletics_logo.svg"
+        },
+        {
+          "name": "Mississippi State",
+          "abbreviation": "MSST",
+          "mascot": "Bulldogs",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 58,
+          "primary": "#5D1725",
+          "secondary": "#FFFFFF",
+          "tertiary": "#000000",
+          "logoURL": "https://en.wikipedia.org/wiki/Mississippi_State_Bulldogs_men%27s_basketball#/media/File:Mississippi_State_Bulldogs_script_logo.svg"
+        },
+        {
+          "name": "Missouri",
+          "abbreviation": "MIZZ",
+          "mascot": "Tigers",
+          "offenseScheme": "motion",
+          "defenseScheme": "Man-to-Man",
+          "prestige": 65,
+          "primary": "#F1B82D",
+          "secondary": "#000000",
+          "tertiary": "#FFFFFF",
+          "logoURL": "https://en.wikipedia.org/wiki/Missouri_Tigers_men%27s_basketball#/media/File:Mizzou_Athletics_wordmark.svg"
+        }
+      ]
+    }
+  ]
+}
